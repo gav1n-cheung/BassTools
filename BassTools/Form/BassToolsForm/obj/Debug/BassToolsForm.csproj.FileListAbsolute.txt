@@ -1,0 +1,16 @@
+H:\Others\BassTools\Form\BassToolsForm\bin\Debug\BassToolsForm.exe.config
+H:\Others\BassTools\Form\BassToolsForm\bin\Debug\BassToolsForm.exe
+H:\Others\BassTools\Form\BassToolsForm\bin\Debug\BassToolsForm.pdb
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.csproj.AssemblyReference.cache
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\MainWindow.g.cs
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\App.g.cs
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm_MarkupCompile.cache
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm_MarkupCompile.lref
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\MainWindow.baml
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.g.resources
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.Properties.Resources.resources
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.csproj.GenerateResource.cache
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.csproj.CoreCompileInputs.cache
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.exe
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm.pdb
+H:\Others\BassTools\Form\BassToolsForm\obj\Debug\BassToolsForm_Content.g.cs
